@@ -10,4 +10,4 @@ This is an introduction to the Principles of AI Ethics.
 
 
 
-No we can add more content.
+Now we can add more content.
